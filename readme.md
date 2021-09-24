@@ -8,7 +8,7 @@ If you ever want read the code and get portions of it, be aware that it may cont
 
 ## Not working 
 - Check / checkmate detection not working properly. There are sometimes false positives. 
-- 
+ 
 ## Build from sources
 To build this project you need premake5 (available [here](https://premake.github.io/download)) and Visual Studio. This project is only tested on Windows with the Visual Studio 2019 IDE. No guarantees are made regarding other platforms. To build this project run `premake5 vs2019`. This will generate a solution (.sln) in the projects/vs2019 directory. 
 To run the binary outside of visual studio, the executable must be started from the root directory.
